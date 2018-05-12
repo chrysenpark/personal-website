@@ -32,6 +32,14 @@ h2 {
   font-size: 3.5rem;
 }
 
+.coding-gif-box {
+  padding-top: 3em;
+  padding-left: 6em;
+}
+
+.coding-gif {
+
+}
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
